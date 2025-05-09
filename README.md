@@ -56,9 +56,9 @@ React-based web app with Razorpay API integration
 
 ## 🧪 Workshops & Hackathons
 
-- **Power BI:** [Dashboard Demo](https://github.com/Sharvari-21/Workshops/blob/main/PowerBI.png)  
-- **Hangout.js 3D Simulation:** [Avatar Demo](https://github.com/Sharvari-21/Workshops/blob/main/Hangout.js.png)  
-- **Blockchain 101:** [Workshop Poster](https://github.com/Sharvari-21/Workshops/blob/main/Blockchain%20101.jpg)  
+- **Power BI:** [Certificate](https://github.com/Sharvari-21/Workshops/blob/main/PowerBI.png)  
+- **Hangout.js 3D Simulation:** [Certificate](https://github.com/Sharvari-21/Workshops/blob/main/Hangout.js.png)  
+- **Blockchain 101:** [Certificate](https://github.com/Sharvari-21/Workshops/blob/main/Blockchain%20101.jpg)  
 - Participated in **INVICTUS** and **IDEATHON**
 
 ---
