@@ -32,25 +32,24 @@ Flutter app for booking doctor appointments, locating hospitals, and emergency c
 
 ### 🔹 [Attendance System using Face Recognition](https://github.com/Sharvari-21/Attendance-Marking-using-Group-Photo)  
 Mark attendance from group photos using DeepFace and FaceNet  
-🔗 [Live Demo](https://attendence-using-face-recognition-yvqv.onrender.com/)
+
 
 ### 🔹 [House Price Prediction](https://github.com/YashRahate/HousePricePrediction)  
 Regression modeling for real estate predictions  
-🔗 [Live Demo](https://house-price-prediction-s2cl.onrender.com/)
+
 
 ### 🔹 [Potato Disease Detection System](https://github.com/Sharvari-21/Potato_disease_recognition_System)  
 Detects plant diseases using CNN and TensorFlow
 
 ### 🔹 [Online Voting System](https://github.com/Sharvari-21/OVS1)  
 Full-stack web platform for elections  
-🔗 [Live Demo](https://online-voting-system-frontend-tx18.onrender.com/)
+
 
 ### 🔹 [Grocery Inventory Management System](https://github.com/YashRahate/Grocery_MS_cloud)  
 Standalone Python+MySQL app for managing store inventory
 
 ### 🔹 [Online Salon Appointment App](https://github.com/Sharvari-21/Online-Salon-App)  
 React-based web app with Razorpay API integration  
-🔗 [Live Demo](https://frontend-pgtg.onrender.com/home)
 
 ---
 
