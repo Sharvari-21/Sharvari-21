@@ -62,6 +62,8 @@ React-based web app with Razorpay API integration
 
 ---
 
+![Profile view counter](https://komarev.com/ghpvc/?username=Sharvari-21)
+
 ## ✨ Let's Connect
 
 📫 Email: sharvari.more21@gmail.com  
