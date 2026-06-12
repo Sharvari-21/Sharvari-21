@@ -65,7 +65,7 @@ React-based web app with Razorpay API integration
 
 ## ✨ Let's Connect
 
-📫 Email: sharvari.more21@gmail.com  
+📫 Email: sharvarimore2004@gmail.com  
 🌐 GitHub: [Sharvari-21](https://github.com/Sharvari-21)  
 📍 Location: Mumbai, India  
 
